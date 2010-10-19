@@ -3,9 +3,9 @@ About
 
 This is a payment module for the Prestashop shopping cart which allows you to process transactions through the NETBANX payment gateway.
 
-The module was originally released commercially with IITC Ltd. but as the company is stopping trading and I have decided to open source it.
+The module was originally released commercially with IITC Ltd. but as the company has stopping trading I have decided to open source it.
 
-You can still [view the original page](http://iitc.info/products/prestashop-netbanx) for now although any new information is going to be either left here or [on my blog](http://kzar.co.uk/blog/view/netbanx-prestashop-payment-module).
+You can still [view the original page](http://iitc.info/products/prestashop-netbanx) for now, any new information is going to be left here or [on my blog](http://kzar.co.uk/blog/view/netbanx-prestashop-payment-module).
 
 Installation
 ------------
